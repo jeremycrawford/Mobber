@@ -32,9 +32,8 @@ body * {
 .header-background {
     position: absolute;
     display: inline-block;
-    width: 100%;
+    width: auto;
     height: 60px;
-    background-image: repeat-x;
 }
 
 /* make EVERYTHING inside the header inline-block*/
